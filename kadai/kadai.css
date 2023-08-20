@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.logo {
+        width:500px;
+        margin-top: 14px;
+}
+.header {
+        overflow: hidden;
+        margin: 20px;
+}
+.list ul{
+	display: block;
+        margin-left: auto;
+	margin-right: auto;
+	font-size:  70px;
+}
+body {
+        background-image: url(images/haikei.jpg);
+        background-size: cover;
+}
+.kougaku {
+	width: 630px; 
+	height: 360px;
+}
+
