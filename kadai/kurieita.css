@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body {
+        background-image: url(images/haikei.jpg);
+        background-size: cover;
+}
+.kougaku {
+        display:flex;
+        width: 900px;
+
+}
+.pan {
+        display: inline;
+        margin-left: 1050px;
+
